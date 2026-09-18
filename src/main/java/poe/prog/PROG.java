@@ -1,4 +1,4 @@
-
+// Author: Thokozani Hlatshwayo
 package poe.prog;
 
 import java.util.Scanner;
