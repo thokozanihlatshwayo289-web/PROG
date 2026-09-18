@@ -2,7 +2,7 @@
 package poe.prog;
 
 import java.util.Scanner;
-
+// Main application execution class
 public class PROG {
 
    public static void main(String[] args) {
