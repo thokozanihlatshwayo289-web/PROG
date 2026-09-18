@@ -12,8 +12,6 @@ public class LoginTest {
         login = new Login("Kyle", "Smith");
     }
 
-    // --- Unit Tests for Part 1 Requirements ---
-
     @Test
     public void testUsernameCorrectlyFormattedMessage() {
         login.registerUser("kyl_1", "Ch&&sec@ke99!", "+27838968976");
