@@ -1,7 +1,7 @@
 package poe.prog;
 
 import java.util.regex.Pattern;
-
+// Login validation logic
 public class Login {
     private String username;
     private String password;
